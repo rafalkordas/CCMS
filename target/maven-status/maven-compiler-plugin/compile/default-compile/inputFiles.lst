@@ -1,0 +1,16 @@
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/App.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/person/Mentor.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/person/RegularEmployee.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/details/Access.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/DAO/CodecoolDAOStudent.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/person/Manager.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/person/Student.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/DAO/DAOInterfaceStudent.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/details/Privilege.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/DAO/DAOInterfaceEmp.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/Controller.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/View.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/person/CodecoolPerson.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/DAO/CodecoolDAOEmployee.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/details/Assignment.java
+/home/rafal/codecool/ccms-eeeeeerrr/src/main/java/com/codecool/details/ReadAssignmentsFromFile.java
